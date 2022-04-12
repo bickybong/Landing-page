@@ -1,0 +1,96 @@
+body{
+    display: flex;
+    flex-flow: column;
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: lightcoral;
+    color: lightcyan;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    margin: 0;
+    padding: 0;
+    gap: 30px;
+}
+
+a{
+    text-decoration: none;
+    color: lightcyan;
+}
+
+.title{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: aliceblue;
+    color: lightcoral;
+}
+
+button{
+    padding: 10px 20px;
+    color: lightcoral;
+    background-color: lightcyan;
+    border-radius: 20px;
+}
+
+.classes{
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    background-color: aliceblue;
+    color: lightcoral;
+}
+
+.inclass{
+    display: flex;
+    gap: 20px;
+}
+
+.ininclass{
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
+}
+
+img{
+    border-radius: 10px;
+    border: 2px solid pink;    
+}
+
+.quote{
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
+    font: 36px light italic ;
+    background-color: beige;
+    color: violet;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.quote p{
+    margin: 0;
+    padding:0 30px;
+}
+
+.action{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: lightcoral;
+    color: lightcyan;
+    gap: 20px;
+    border-radius: 10px;
+    margin: 30px;
+}
