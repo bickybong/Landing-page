@@ -1,4 +1,4 @@
-# Landing-page
+# Fitness First Landing-page
 Personal project as part of curriculumn of Odin Project
 Created website about fitness to practise and showcase HTML and CSS skills
 
