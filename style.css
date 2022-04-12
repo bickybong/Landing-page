@@ -70,7 +70,6 @@ img{
 .quote{
     display: flex;
     flex-flow: column;
-    align-items: center;
     justify-content: center;
     font: 36px light italic ;
     background-color: beige;
@@ -82,6 +81,13 @@ img{
 .quote p{
     margin: 0;
     padding:0 30px;
+    text-align: center;
+}
+
+.quote h2{
+    text-align: right;
+    font-size: 26px;
+    margin: 0;
 }
 
 .action{
